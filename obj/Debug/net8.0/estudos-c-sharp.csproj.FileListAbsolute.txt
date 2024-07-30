@@ -1,0 +1,15 @@
+C:\Users\SENAI\Desktop\estudos-c-sharp\bin\Debug\net8.0\estudos-c-sharp.exe
+C:\Users\SENAI\Desktop\estudos-c-sharp\bin\Debug\net8.0\estudos-c-sharp.deps.json
+C:\Users\SENAI\Desktop\estudos-c-sharp\bin\Debug\net8.0\estudos-c-sharp.runtimeconfig.json
+C:\Users\SENAI\Desktop\estudos-c-sharp\bin\Debug\net8.0\estudos-c-sharp.dll
+C:\Users\SENAI\Desktop\estudos-c-sharp\bin\Debug\net8.0\estudos-c-sharp.pdb
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.AssemblyInfoInputs.cache
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.AssemblyInfo.cs
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.sourcelink.json
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.dll
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\refint\estudos-c-sharp.dll
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.pdb
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\estudos-c-sharp.genruntimeconfig.cache
+C:\Users\SENAI\Desktop\estudos-c-sharp\obj\Debug\net8.0\ref\estudos-c-sharp.dll
