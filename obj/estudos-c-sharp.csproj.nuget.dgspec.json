@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj": {}
+    "C:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj": {
+    "C:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj",
+        "projectUniqueName": "C:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj",
         "projectName": "estudos-c-sharp",
-        "projectPath": "c:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj",
+        "projectPath": "C:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\estudos-c-sharp.csproj",
         "packagesPath": "C:\\Users\\SENAI\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\obj\\",
+        "outputPath": "C:\\Users\\SENAI\\Desktop\\estudos-c-sharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
