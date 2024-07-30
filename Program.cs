@@ -4,6 +4,8 @@ class Program {
 
     //string cor = "vermelho";
     static void Main(string[] args){
+        //define o Random
+        Random random = new Random();
         //dando boas vindas 
         Console.WriteLine(@"
         ***********************************
@@ -11,7 +13,7 @@ class Program {
         ***********************************");
         //perguntando nome
         Console.WriteLine("Digite seu nome: ");
-        string nome = Console.ReadLine();
+        string nome = Console.ReadLine()!;
         Console.WriteLine($"Olá, {nome} Seja bem-vindo!!");
 
         //definindo variavel de idade
@@ -29,8 +31,9 @@ class Program {
             //exibe o resultado
             Console.WriteLine($"Faltam {conta} anos para completar 18\r\n");
         }else {
+            int anos = random.Next(1, 101);
             //se for maior de idade..
-            Console.WriteLine("Já pode ser preso!\r\n");
+            Console.WriteLine($"você vai ser preso por {anos} anos\r\n");
         }
 
         //perguntando se o usuario deseja jogar o jogo da adivinhação
@@ -38,7 +41,7 @@ class Program {
         //definindo a variavel da resposta
         string resposta;
         //perguntando e pedindo a resposta em minusculas
-        resposta = Console.ReadLine().ToLower();
+        resposta = Console.ReadLine()!.ToLower();
 
         /*
         for(int i = 0; i < 11; i++){
@@ -66,8 +69,6 @@ class Program {
 
         //se a pessoa escolher "s"
         if (resposta == "s"){
-            //define o Random
-            Random random = new Random();
             //gera um numero de 1 a 100
             int numeroAleatorio = random.Next(1, 100);
             //mostra o número aleatório
